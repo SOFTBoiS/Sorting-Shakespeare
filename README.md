@@ -7,7 +7,7 @@ Shakespeares complete works can be sorted with the following methods:
 - Heap sort
 - Trie sort
 
-However, after running Selection sort for 5 hours and Insertion sort same O-notation, I have omitted these sorts from the code. Feel free to give them a try :)
+However, after running Selection sort for 5 hours and Insertion sort has same O-notation, I have omitted these sorts from the program. Feel free to give them a try :)
 
 Results for the other 3 sorts are as follows (words per millisecond):
 - Bottom up merge sort: 430 WPMS
